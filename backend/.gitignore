@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+server
+/bin/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Go
+vendor/
+
+# Env
+.env
